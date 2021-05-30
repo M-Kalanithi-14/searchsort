@@ -1,7 +1,13 @@
 # searchsort
 A Python Package that contains almost all the Searching and Sorting Algorithms
 
-It is available in [PyPI](https://pypi.org/project/searchsort/)
+It is also available in [PyPI](https://pypi.org/project/searchsort/)
+
+## Installation in Python
+***Note \: Requires Python Version 3.x***
+```bash
+pip install searchsort
+```
 
 ## A Searching Implementation
 ```python3
