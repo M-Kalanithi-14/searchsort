@@ -1,4 +1,4 @@
-# searchsort
+# searchsort package
 A Python Package that contains almost all the Searching and Sorting Algorithms
 
 It is also available in [PyPI](https://pypi.org/project/searchsort/)
